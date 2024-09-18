@@ -2,6 +2,16 @@
 
 Based on Django, Python3.12.
 
+[Repository Address](https://github.com/desonglll/InkFlow)
+
+## Documentation
+
+[Python 3.12](https://docs.python.org/3/)
+
+[Django 5.1](https://docs.djangoproject.com/en/5.1/)
+
+[DRF](https://www.django-rest-framework.org/)
+
 ## Ready to run
 
 ```shell
